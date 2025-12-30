@@ -1,9 +1,6 @@
 # TextToPNG
-A simple app to turn inputted text into an image block with coloured background, which can then be copied to notion work space. 
 
-# TextToPNG
-
-**TextToPNG** is a lightweight macOS desktop app for turning free-form text into clean PNG images.
+**TextToPNG** is a simple macOS desktop app for turning free-form text into clean PNG images with coloured background, which can then be copied to notion work space.
 
 It’s designed for fast visual text generation: slides, posters, labels, diagrams, social graphics, and anywhere you need styled text without opening a full design tool.
 
